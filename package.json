@@ -1,6 +1,6 @@
 {
   "name": "boka-upload-qiniu",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "图片资源上传七牛",
   "main": "index.js",
   "scripts": {
